@@ -1,0 +1,20 @@
+.cardCategory{
+    text-align: center;
+}
+.cardCategory a{
+    text-decoration: none;
+    color: #6e3e24;
+}
+.cardCategory .card{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+}
+.cardCategory .card-img{
+    min-height: 200px;
+}
+.cardCategory .card-title{
+    color: salmon;
+    margin-top: 1em;
+    font-size: 1.2em;
+}

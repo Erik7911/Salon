@@ -1,0 +1,55 @@
+.dropd.navbar-nav {
+	align-items: center;
+}
+nav.navbar ul{
+	padding: 0;
+}
+nav.navbar li{
+	list-style: none;
+}
+.firebaseui-container {
+	max-width: 100%!important;
+}
+nav.navbar > a{
+	display: -webkit-inline-box;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+nav.navbar > a:hover {
+	list-style-type: none;
+	text-decoration: none;
+}
+.drop{
+	color: #6e3e24!important;
+	font-size: 	1.3em;
+}
+.mod_btn{
+	margin-top: 7%;
+	color: #6e3e24;
+}
+
+.title {
+	text-decoration: none;
+    list-style: none;
+    margin-left: 5%;
+    display: block;
+    font-size: 1.5em;
+    color: #6e3e24;
+}
+
+span {
+	font-size: 30px;
+	color: #6e3e24;
+}
+.header_design {
+    border-radius: 10px;
+    box-shadow: 6px 8px 17px #6e3e24;
+}
+ 
+
+@media only screen and (max-width: 992px) {
+  	.title {
+    	font-size: 1em;
+  	}
+}
